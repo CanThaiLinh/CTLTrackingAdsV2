@@ -28,8 +28,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CTLTrackingAdsV2",
-            url: "https://github.com/CanThaiLinh/CTLTrackingAdsV2/releases/download/1.0.0/CTLTrackingAdsV2.xcframework.zip",
-            checksum: "de39b88fa708eb63c60ddbac76e018f8d4ae6824c35311f939af485727971d75"
+            url: "https://github.com/CanThaiLinh/CTLTrackingAdsV2/releases/download/1.0.1/CTLTrackingAdsV2.xcframework.zip",
+            checksum: "384ee24cc891d535b303aec17185f4e11a3a5e5fdaf357b019d44d93082d5b56"
         ),
         .target(
             name: "CTLTrackingAdsV2Target",
